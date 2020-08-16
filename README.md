@@ -4,3 +4,5 @@ The folder Switchbot_NimBLE_Client contains the arduino file to connect to switc
 It is based on the sample code from https://github.com/h2zero/NimBLE-Arduino
 
 https://www.switch-bot.com/products/switchbot-bot
+
+The codes to communicate to Switchbot were found there: https://github.com/RoButton/switchbotpy
